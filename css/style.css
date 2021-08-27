@@ -1,0 +1,6 @@
+body {
+  background-color: rgba(255, 145, 0, 0.603); }
+
+.carousel {
+  display: flex;
+  justify-content: center; }
